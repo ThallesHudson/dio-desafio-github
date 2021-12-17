@@ -1,0 +1,12 @@
+#Código Git Windowns
+
+- Cd
+- dir
+- mkdir
+- del / rmdir
+- cls
+- rmdir
+- ls
+- git status 
+- git clone
+- git push
